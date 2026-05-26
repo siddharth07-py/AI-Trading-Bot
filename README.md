@@ -40,7 +40,8 @@
     - SECRET_KEY
     - TELEGRAM_TOKEN
     - CHAT_ID
-  4. Run the bot:
+  *Tip* - Try running handshake.py to authenticate the connection between Python and Alpaca API
+  5. Run the bot:
   python bot.py
 
   ⚙️ Strategy Parameters
@@ -51,6 +52,8 @@
   - STOP_LOSS_PCT: The "Emergency Brake" (e.g., 0.01 for 1%).
   - TAKE_PROFIT_PCT: The target gain (e.g., 0.01 for 1%).
 
+  NOTE: If you want to make it fully automated, its suggested to run it on home server or cloud service providers through VPS
+  
   ⚠️ Disclaimer
 
   This software is for educational and paper-trading purposes only. Trading involves significant risk of loss. The author is
