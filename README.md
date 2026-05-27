@@ -60,4 +60,4 @@
    not responsible for any financial losses incurred while using this bot. Always test strategies in a paper environment
   before using real capital.
 
-  ---Developed for the AI Trading Initiative.
+  ---Developed using Claude(free subscription)
