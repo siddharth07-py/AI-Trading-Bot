@@ -29,8 +29,8 @@
   ### Setup
   1. **Clone the repository:**
      ```bash
-     git clone https://github.com/YOUR_USERNAME/imperium-capital-bot.git
-     cd imperium-capital-bot
+     git clone https://github.com/siddharth07-py/AI-Trading-Bot.git
+     cd AI-Trading-Bot
 
   2. Install dependencies:
   pip install alpaca-py pandas requests
